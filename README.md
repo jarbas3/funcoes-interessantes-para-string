@@ -1,0 +1,1 @@
+Funções interessantes para se usar com Strings.
